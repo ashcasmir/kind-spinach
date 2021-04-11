@@ -37,7 +37,7 @@ sections:
             icon_position: right
         title: Offer Based Alliances Management
       - type: feature_item
-        title: Awesome Feature of Your Services
+        title: Tactical Offers And Short Term Promotions
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
