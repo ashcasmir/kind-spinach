@@ -16,7 +16,7 @@
             },
             {
                 "type": "action",
-                "label": "Features",
+                "label": "Services",
                 "url": "/features",
                 "style": "link"
             },
