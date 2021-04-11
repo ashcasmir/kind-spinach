@@ -71,7 +71,7 @@ sections:
         actions:
           - label: Learn More
             url: '#merchant-promotions'
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
