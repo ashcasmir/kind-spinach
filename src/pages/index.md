@@ -37,6 +37,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        title: Offer Based
       - type: feature_item
         title: Awesome Feature of Your Services
         content: >-
