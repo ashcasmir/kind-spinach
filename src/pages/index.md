@@ -65,17 +65,8 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Merchant Promotions
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Design intricate consumer journeys.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
