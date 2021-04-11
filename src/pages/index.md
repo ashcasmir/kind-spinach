@@ -16,7 +16,7 @@ sections:
         style: primary
   - type: section_features
     section_id: features
-    title: Features
+    title: Our Services
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
