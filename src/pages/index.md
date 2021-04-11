@@ -79,6 +79,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: /images/10.jpg
   - type: section_reviews
     section_id: reviews
     title: Testimonials
