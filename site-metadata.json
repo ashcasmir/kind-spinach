@@ -22,12 +22,6 @@
             },
             {
                 "type": "action",
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link"
