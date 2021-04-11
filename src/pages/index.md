@@ -69,7 +69,7 @@ sections:
           Design intricate consumer journeys.
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
