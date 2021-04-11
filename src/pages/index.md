@@ -10,11 +10,7 @@ sections:
       experiences to their consumers
     image: images/hero.png
     image_alt: App preview
-    actions:
-      - type: action
-        label: Learn More
-        url: /features
-        style: primary
+    actions: []
   - type: section_features
     section_id: features
     title: Services That We Offer
