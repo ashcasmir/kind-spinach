@@ -23,10 +23,8 @@ sections:
     background: gray
     features:
       - type: feature_item
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |
+          Create meaningful relationships with your prime customers.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
