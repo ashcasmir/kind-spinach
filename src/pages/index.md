@@ -37,7 +37,7 @@ sections:
         title: Tactical Offers And Short Term Promotions
         content: |
           Enhance customer retention with promotional events.
-        image: images/feature2.png
+        image: /images/food-table.jpg
         image_alt: App users welcoming a new member
         actions:
           - type: action
