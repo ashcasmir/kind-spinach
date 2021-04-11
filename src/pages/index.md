@@ -8,7 +8,7 @@ sections:
       We curate, execute and manage value-driven consumer reward programs that
       help our customers deliver dynamic, differentiated and delightful
       experiences to their consumers
-    image: images/hero.png
+    image: /images/handshake-2.jpg
     image_alt: App preview
     actions: []
   - type: section_features
