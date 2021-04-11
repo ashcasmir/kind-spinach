@@ -37,7 +37,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        title: Offer-based Alliances Management
+        title: Offer Based Alliances Management
       - type: feature_item
         title: Awesome Feature of Your Services
         content: >-
