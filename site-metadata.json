@@ -1,0 +1,152 @@
+{
+    "title": "Azimuth",
+    "palette": "blue",
+    "base_font": "nunito-sans",
+    "header": {
+        "type": "header",
+        "logo_img": "images/logo.svg",
+        "logo_img_alt": "Logo",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Features",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Pricing",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Sign Up",
+                "url": "/signup",
+                "style": "primary"
+            }
+        ]
+    },
+    "footer": {
+        "type": "footer",
+        "sections": [
+            {
+                "type": "footer_text",
+                "image": "images/logo-alt.svg",
+                "image_alt": "Footer logo",
+                "image_url": "/",
+                "content": "Stackbit theme demo"
+            },
+            {
+                "type": "footer_nav",
+                "title": "Company",
+                "nav_links": [
+                    {
+                        "type": "action",
+                        "label": "About Us",
+                        "url": "/about",
+                        "style": "link"
+                    },
+                    {
+                        "type": "action",
+                        "label": "Blog",
+                        "url": "/blog",
+                        "style": "link"
+                    },
+                    {
+                        "type": "action",
+                        "label": "Sign Up",
+                        "url": "/signup",
+                        "style": "link"
+                    },
+                    {
+                        "type": "action",
+                        "label": "Contact",
+                        "url": "/contact",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "type": "footer_nav",
+                "title": "Community",
+                "nav_links": [
+                    {
+                        "type": "action",
+                        "label": "Twitter",
+                        "url": "https://twitter.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "twitter",
+                        "icon_position": "left"
+                    },
+                    {
+                        "type": "action",
+                        "label": "LinkedIn",
+                        "url": "https://www.linkedin.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "linkedin",
+                        "icon_position": "left"
+                    },
+                    {
+                        "type": "action",
+                        "label": "GitHub",
+                        "url": "https://github.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "github",
+                        "icon_position": "left"
+                    }
+                ]
+            },
+            {
+                "type": "footer_form",
+                "title": "Subscribe",
+                "content": "Stay up to date with our latest developments.",
+                "form_id": "contactForm",
+                "hide_labels": true,
+                "form_fields": [
+                    {
+                        "type": "form_field",
+                        "input_type": "email",
+                        "name": "email",
+                        "label": "Email",
+                        "default_value": "Enter email address",
+                        "is_required": true
+                    }
+                ],
+                "submit_label": "Subscribe"
+            }
+        ],
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "label": "Terms of Service",
+                "url": "/terms-of-service",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+    }
+}
