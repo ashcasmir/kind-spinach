@@ -22,12 +22,6 @@
             },
             {
                 "type": "action",
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary"
