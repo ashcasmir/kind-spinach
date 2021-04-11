@@ -38,10 +38,8 @@ sections:
         title: Offer Based Alliances Management
       - type: feature_item
         title: Tactical Offers And Short Term Promotions
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |
+          Enhance customer retention with promotional events.
         image: images/feature2.png
         image_alt: App users welcoming a new member
         actions:
