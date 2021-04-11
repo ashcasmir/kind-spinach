@@ -19,12 +19,6 @@
                 "label": "Services",
                 "url": "/features",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
             }
         ]
     },
