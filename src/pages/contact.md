@@ -27,7 +27,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Looking to Increase sales
+          - Looking to Increase sales through partnerships
           - Sponsorship
           - Other
       - type: form_field
