@@ -22,7 +22,7 @@ sections:
     title: Other Services
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Feature 1
         content: >-
           ## Lorem ipsum
 
