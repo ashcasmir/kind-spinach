@@ -80,7 +80,7 @@ sections:
   - type: section_reviews
     section_id: reviews
     title: Testimonials
-    subtitle: What our clients say
+    subtitle: What Our Clients Say
     background: white
     reviews:
       - type: review_item
