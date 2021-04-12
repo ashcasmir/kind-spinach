@@ -109,7 +109,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - type: section_cta
     section_id: call-to-action
-    title: Wou
+    title: Need help in building alliance partnerships?
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action
