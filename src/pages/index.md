@@ -116,6 +116,7 @@ sections:
         url: /contact
         style: primary
         has_icon: true
+        icon: arrow-right
     subtitle: >-
       Alliance partnerships help in long term mutually beneficial relationships
       between you and your customers.
