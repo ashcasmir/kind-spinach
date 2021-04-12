@@ -113,7 +113,7 @@ sections:
     actions:
       - type: action
         label: Contact Us Now
-        url: /signup
+        url: /contact
         style: primary
     subtitle: >-
       Alliance partnerships help in long term mutually beneficial relationships
