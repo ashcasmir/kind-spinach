@@ -51,7 +51,7 @@ sections:
         title: Point of Sale Merchandise Development
         content: |
           A multi-dimensional expert team for collateral branding.
-        image: /images/pos.jpg
+        image: /images/clever-spruce.jpg
         image_alt: App user profile preview
         actions:
           - type: action
