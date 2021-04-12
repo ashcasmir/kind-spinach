@@ -4,21 +4,16 @@ sections:
   - type: section_content
     section_id: features
     title: Offer Based Alliances Management
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      As one of the most renowned and leading alliance aggregators across the
+      globe, we build upon your brand objectives by designing a customised
+      program that supports interactive customer engagements. Our solution isn’t
+      just a rewards program; it offers multiple touch-points that allow you to
+      have continuous contact with your customers.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      We work on a bonafide platform and our end to end alliance management
+      teams guide our clients through each process of the concept diligently.
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     background: gray
