@@ -19,10 +19,6 @@ sections:
     background: gray
     actions:
       - type: action
-        label: Free Trial
-        url: /signup
-        style: primary
-      - type: action
         label: View Demo
         url: '#'
         style: secondary
