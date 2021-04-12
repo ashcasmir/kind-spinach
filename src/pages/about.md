@@ -37,7 +37,7 @@ With expertise in the Lifestyle, Dining, Health and Wellness and Retail sectors,
 
 ## Our Team
 
-Dedication, Determination, Enthusiasm, Hard Work & Sincerity is what defines our team at Alliances Galore.
+Dedication, Determination, Enthusiasm, Hard Work & Sincerity is what defines our team at Alliances Infinite.
 
 Our dynamic and young team brings together diverse skill sets and years of experience across fields like food consultancy, hotel and F\&B operations, brand identity, brand solutions and innovations, alliance management, loyalty program management are a few amongst others.
 
