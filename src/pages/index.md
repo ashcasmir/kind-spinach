@@ -110,7 +110,9 @@ sections:
   - type: section_cta
     section_id: call-to-action
     title: Need help in building alliance partnerships?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      long term mutually beneficial relationships between brands and their
+      customers
     actions:
       - type: action
         label: Get Started
