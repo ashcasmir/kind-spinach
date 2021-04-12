@@ -112,7 +112,7 @@ sections:
     title: Need help in building alliance partnerships?
     actions:
       - type: action
-        label: Get Started
+        label: Contact Us Now
         url: /signup
         style: primary
     subtitle: >-
