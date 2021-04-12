@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: section_content
     section_id: features
-    title: The Best Features of Your Services
+    title: Offer Based Alliances Management
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
