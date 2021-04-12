@@ -15,12 +15,6 @@
                 "style": "link"
             },
             {
-                "type": "action",
-                "label": "Services",
-                "url": "/features",
-                "style": "link"
-            },
-            {
                 "label": "Contact Us",
                 "url": "#contact",
                 "style": "link",
