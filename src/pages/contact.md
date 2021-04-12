@@ -28,7 +28,7 @@ sections:
         default_value: Please select
         options:
           - I want help to build partnerships to increase my sales
-          - 'I want '
+          - 'I want offers '
           - Other
       - type: form_field
         input_type: textarea
