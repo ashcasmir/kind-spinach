@@ -40,8 +40,7 @@
                 "type": "footer_text",
                 "image": "/images/square-spinach.jpg",
                 "image_alt": "Footer logo",
-                "image_url": "/",
-                "content": "Stackbit theme demo"
+                "image_url": "/"
             },
             {
                 "type": "footer_nav",
