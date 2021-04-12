@@ -19,7 +19,7 @@ sections:
     background: gray
     actions: []
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Other Services
     subtitle: lorem-ipsum
     background: gray
     features: []
