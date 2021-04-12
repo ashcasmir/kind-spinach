@@ -115,6 +115,9 @@ sections:
         label: Get Started
         url: /signup
         style: primary
+    subtitle: >-
+      Alliance partnerships help in long term mutually beneficial relationships
+      between you and your customers.
   - type: section_posts
     section_id: recent-posts
     title: Latest Posts
