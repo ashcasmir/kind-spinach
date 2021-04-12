@@ -14,7 +14,7 @@ sections:
 
       We work on a bonafide platform and our end to end alliance management
       teams guide our clients through each process of the concept diligently.
-    image: images/feature1.png
+    image: /images/alliances1.jpg
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
