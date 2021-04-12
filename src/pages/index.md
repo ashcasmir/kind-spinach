@@ -74,34 +74,6 @@ sections:
             type: action
         type: feature_item
         image: /images/10.jpg
-  - type: section_reviews
-    section_id: reviews
-    title: Testimonials
-    subtitle: What Our Clients Say
-    background: white
-    reviews:
-      - type: review_item
-        author: Eric Widget
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - type: review_item
-        author: Parsley Montana
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - type: review_item
-        author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - type: section_cta
     section_id: call-to-action
     title: Need help in building alliance partnerships?
