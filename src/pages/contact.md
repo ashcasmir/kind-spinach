@@ -27,9 +27,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - >-
-            I want help to build partnerships to increase Increase sales through
-            partnerships
+          - I want help to build partnerships to increase my sales
           - null
           - Other
       - type: form_field
