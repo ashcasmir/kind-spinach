@@ -22,7 +22,7 @@ sections:
       - type: feature_item
         content: |
           Create meaningful relationships with your prime customers.
-        image: images/feature1.png
+        image: /images/alliances.jpg
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
