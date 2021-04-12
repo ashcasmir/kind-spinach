@@ -117,6 +117,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
+        icon_position: right
     subtitle: >-
       Alliance partnerships help in long term mutually beneficial relationships
       between you and your customers.
