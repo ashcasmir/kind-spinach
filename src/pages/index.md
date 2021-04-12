@@ -128,7 +128,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Alliances Infinite
-  description: The preview of the Azimuth theme
+  description: We make building partnership alliances easier.
   extra:
     - name: 'og:type'
       value: website
