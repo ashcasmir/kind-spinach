@@ -29,7 +29,6 @@ sections:
         options:
           - I want to increase my sales
           - I want to build more rewards / offers for my customers
-          - Other
       - type: form_field
         input_type: textarea
         name: message
