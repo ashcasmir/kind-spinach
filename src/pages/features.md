@@ -27,7 +27,7 @@ sections:
     actions:
       - type: action
         label: Get Started
-        url: '#'
+        url: '#contact'
         style: secondary
 seo:
   type: stackbit_page_meta
