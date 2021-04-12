@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Our Story
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
