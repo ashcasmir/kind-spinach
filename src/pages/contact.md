@@ -28,7 +28,7 @@ sections:
         default_value: Please select
         options:
           - Increase sales through partnerships
-          - Sponsorship
+          - null
           - Other
       - type: form_field
         input_type: textarea
