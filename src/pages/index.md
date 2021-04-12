@@ -88,10 +88,6 @@ sections:
     subtitle: >-
       Alliance partnerships help in long term mutually beneficial relationships
       between you and your customers.
-  - type: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    background: gray
 seo:
   type: stackbit_page_meta
   title: Alliances Infinite
