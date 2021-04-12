@@ -34,3 +34,7 @@ template: page
 Alliances Infinite is an insight-driven alliance management company. We curate, execute and manage value-driven consumer reward programs that help our customers deliver dynamic, differentiated and delightful experiences to their consumers.
 
 With expertise in the Lifestyle, Dining, Health and Wellness and Retail sectors, Alliances Infinite's aim has been to build long term mutually beneficial relationships between brands and their customers.
+
+
+
+## Our Team
