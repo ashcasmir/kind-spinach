@@ -111,7 +111,7 @@ sections:
     section_id: call-to-action
     title: Need help in building alliance partnerships?
     subtitle: >-
-      Wlong term mutually beneficial relationships between brands and their
+      long term mutually beneficial relationships between brands and their
       customers
     actions:
       - type: action
