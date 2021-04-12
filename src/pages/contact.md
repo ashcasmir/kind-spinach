@@ -27,7 +27,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - I am looking to increase my sales
+          - I want to build partnerships to increase my sales
           - 'I want offers '
           - Other
       - type: form_field
