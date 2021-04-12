@@ -110,9 +110,6 @@ sections:
   - type: section_cta
     section_id: call-to-action
     title: Need help in building alliance partnerships?
-    subtitle: >-
-      Alliance partnerships help in long term mutually beneficial relationships
-      between you and your customers.
     actions:
       - type: action
         label: Get Started
