@@ -9,7 +9,7 @@ sections:
       help our customers deliver dynamic, differentiated and delightful
       experiences to their consumers
     image: /images/luis-villasmil-4V8uMZx8FYA-unsplash.jpg
-    image_alt: App preview
+    image_alt: partnership
     actions: []
   - type: section_features
     section_id: features
