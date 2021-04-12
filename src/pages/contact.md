@@ -28,7 +28,7 @@ sections:
         default_value: Please select
         options:
           - I want to increase my sales
-          - I want to build more rewards / offers for my users
+          - I want to build more rewards / offers for my customers
           - Other
       - type: form_field
         input_type: textarea
