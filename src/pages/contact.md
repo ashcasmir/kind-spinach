@@ -6,7 +6,10 @@ sections:
     title: Contact Us
     content: >
       Do you want to increase sales to your business, or do you want to build an
-      offers program for your customers? Let's talk!
+      offers program for your customers? 
+
+
+      Let's talk!
     background: gray
     form_id: contactForm
     form_fields:
