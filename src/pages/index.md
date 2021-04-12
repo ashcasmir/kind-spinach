@@ -115,6 +115,7 @@ sections:
         label: Contact Us Now
         url: /contact
         style: primary
+        has_icon: true
     subtitle: >-
       Alliance partnerships help in long term mutually beneficial relationships
       between you and your customers.
