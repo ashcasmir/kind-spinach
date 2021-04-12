@@ -67,6 +67,11 @@
                 ]
             },
             {
+                "title": "lorem-ipsum",
+                "nav_links": [],
+                "type": "footer_nav"
+            },
+            {
                 "type": "footer_nav",
                 "title": "Community",
                 "nav_links": [
