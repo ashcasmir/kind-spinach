@@ -1,6 +1,6 @@
 {
     "title": "Azimuth",
-    "palette": "purple",
+    "palette": "cyan",
     "base_font": "nunito-sans",
     "header": {
         "type": "header",
