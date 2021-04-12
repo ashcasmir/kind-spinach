@@ -17,11 +17,7 @@ sections:
     image: /images/alliances1.jpg
     image_alt: App preview on a phone and tablet
     background: gray
-    actions:
-      - type: action
-        label: View Demo
-        url: '#'
-        style: secondary
+    actions: []
   - type: section_cta
     section_id: call-to-action
     title: This Is Call to Action Block!
