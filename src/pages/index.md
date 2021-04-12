@@ -80,9 +80,7 @@ sections:
   - type: section_reviews
     section_id: reviews
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: What our clients say
     background: white
     reviews:
       - type: review_item
