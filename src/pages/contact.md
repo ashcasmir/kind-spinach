@@ -28,7 +28,7 @@ sections:
         default_value: Please select
         options:
           - I want to build alliance partnerships to increase my sales
-          - 'I want offers '
+          - I want to build alliance partnerships to increase my sales
           - Other
       - type: form_field
         input_type: textarea
