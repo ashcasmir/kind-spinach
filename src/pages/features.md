@@ -26,7 +26,7 @@ sections:
       between you and your customers.
     actions:
       - type: action
-        label: Get Started
+        label: Contact
         url: '#contact'
         style: secondary
 seo:
