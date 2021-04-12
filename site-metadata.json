@@ -11,7 +11,7 @@
             {
                 "type": "action",
                 "label": "Our Story",
-                "url": "/",
+                "url": "/About",
                 "style": "link"
             },
             {
