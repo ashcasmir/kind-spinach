@@ -35,6 +35,10 @@ Alliances Infinite is an insight-driven alliance management company. We curate, 
 
 With expertise in the Lifestyle, Dining, Health and Wellness and Retail sectors, Alliances Infinite's aim has been to build long term mutually beneficial relationships between brands and their customers.
 
-
-
 ## Our Team
+
+Dedication, Determination, Enthusiasm, Hard Work & Sincerity is what defines our team at Alliances Galore.
+
+Our dynamic and young team brings together diverse skill sets and years of experience across fields like food consultancy, hotel and F\&B operations, brand identity, brand solutions and innovations, alliance management, loyalty program management are a few amongst others.
+
+The core team is constantly looking to innovate and establish a diverse portfolio of clients and programs with a prompt, hands-on approach to all aspects of the business ensuring Alliances Infinite delivering optimum results in a key turn around time consistently.
