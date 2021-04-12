@@ -27,7 +27,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - 'Business looking to increase '
+          - null
           - Sponsorship
           - Other
       - type: form_field
