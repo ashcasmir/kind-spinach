@@ -112,7 +112,7 @@ sections:
     title: Need help in building alliance partnerships?
     subtitle: >-
       Alliance partnerships help in long term mutually beneficial relationships
-      between brands and their customers
+      between you and your customers.
     actions:
       - type: action
         label: Get Started
