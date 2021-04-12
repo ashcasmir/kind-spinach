@@ -18,11 +18,6 @@ sections:
     image_alt: App preview on a phone and tablet
     background: gray
     actions: []
-  - section_id: lorem-ipsum
-    title: Other Services
-    background: gray
-    features: []
-    type: section_features
   - type: section_cta
     section_id: call-to-action
     title: Need help in building alliance partnerships?
