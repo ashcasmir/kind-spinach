@@ -67,6 +67,13 @@
                 ]
             },
             {
+                "image_alt": "lorem-ipsum",
+                "image_url": "lorem-ipsum",
+                "title": "lorem-ipsum",
+                "content": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+                "type": "footer_text"
+            },
+            {
                 "type": "footer_nav",
                 "title": "Community",
                 "nav_links": [
