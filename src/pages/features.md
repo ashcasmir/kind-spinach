@@ -21,23 +21,7 @@ sections:
   - section_id: lorem-ipsum
     title: Other Services
     background: gray
-    features:
-      - title: Feature 1
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-        image: /images/10.jpg
+    features: []
     type: section_features
   - type: section_cta
     section_id: call-to-action
