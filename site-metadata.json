@@ -102,5 +102,6 @@
         ],
         "content": "&copy; Alliances Infinite. All rights reserved."
     },
-    "domain": "https://alliancesinfinite.com/"
+    "domain": "https://alliancesinfinite.com/",
+    "favicon": "/images/good-aspen.svg"
 }
