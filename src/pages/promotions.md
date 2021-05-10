@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: section_content
     section_id: features
-    title: Offer Based Alliances Management
+    title: Merchant Promotions
     content: >
       As one of the most renowned and leading alliance aggregators across the
       globe, we build upon your brand objectives by designing a customised
