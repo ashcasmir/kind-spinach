@@ -26,7 +26,7 @@ sections:
     actions: []
   - type: section_cta
     section_id: call-to-action
-    title: Need help in building alliance partnerships?
+    title: Need help in building Brand Alliances & Partnerships?
     subtitle: >-
       Alliance partnerships help in long term mutually beneficial relationships
       between you and your customers.
