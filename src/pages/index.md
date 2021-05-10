@@ -39,7 +39,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /features
+            url: /
             style: primary
             has_icon: true
             icon: arrow-right
