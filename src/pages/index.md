@@ -25,7 +25,7 @@ sections:
           - type: action
             label: Learn More
             url: /features
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
@@ -54,7 +54,7 @@ sections:
           - type: action
             label: Learn More
             url: /features
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
@@ -65,7 +65,7 @@ sections:
         actions:
           - label: Learn More
             url: '#merchant-promotions'
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
