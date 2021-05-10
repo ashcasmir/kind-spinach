@@ -5,17 +5,21 @@ sections:
     section_id: features
     title: Point of Sale Merchandise Development
     content: >
-      Our supplier relationships provide the perfect foundation for a
-      high-value, low-cost engagement program. Whether you’re looking for
-      short-term events with travel, dining and entertainment offers or premium
-      merchandise, Alliances Infinite addresses the entire spectrum.
+      Whether it’s the evolution of your existing sales and marketing
+      collaterals or the creation of brand new mediums, we, at Alliances
+      Infinite can help you develop effective and impressive content to fulfil
+      your business goals.
 
 
-      With a series of concepts, we have been providing turnkey promotional
-      activities for our clients. The platform design is just one aspect of our
-      processes. With capabilities that cover every part of your motivational
-      efforts, we can help you strategise, launch and support successful
-      promotional events.
+      Alliances Infinite will align each aspect of collateral development in
+      tandem with your marketing strategy and will ensure brand consistency
+      across all marketing channels.
+
+
+      We have 360-degree know-how to ensure your collateral reaches and
+      instigates an effective response from your customers. Our targeted content
+      and calls to action will have them reach you for an enhanced engagement
+      and superior customer experience.
     image: /images/alliances1.jpg
     image_alt: App preview on a phone and tablet
     background: gray
