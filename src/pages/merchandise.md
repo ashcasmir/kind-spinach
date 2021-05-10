@@ -20,7 +20,7 @@ sections:
       instigates an effective response from your customers. Our targeted content
       and calls to action will have them reach you for an enhanced engagement
       and superior customer experience.
-    image: /images/alliances1.jpg
+    image: /images/branding.jpg
     image_alt: App preview on a phone and tablet
     background: gray
     actions: []
