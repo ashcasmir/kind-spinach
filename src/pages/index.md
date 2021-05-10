@@ -39,7 +39,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /features
+            url: /tactical-promotions
             style: primary
             has_icon: true
             icon: arrow-right
@@ -53,7 +53,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /features
+            url: /merchandise
             style: primary
             has_icon: true
             icon: arrow-right
@@ -64,7 +64,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Learn More
-            url: '#merchant-promotions'
+            url: /promotions
             style: primary
             has_icon: true
             icon: arrow-right
