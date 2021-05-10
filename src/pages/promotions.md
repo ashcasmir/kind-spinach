@@ -13,7 +13,7 @@ sections:
       With a robust infrastructure and an astute knowledge of trends and
       promotional structures, Alliances Infinite specialises in marketing
       promotions with brands across a wide variety of industries.
-    image: /images/alliances1.jpg
+    image: /images/10.jpg
     image_alt: App preview on a phone and tablet
     background: gray
     actions: []
