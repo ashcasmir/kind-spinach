@@ -5,15 +5,14 @@ sections:
     section_id: features
     title: Merchant Promotions
     content: >
-      As one of the most renowned and leading alliance aggregators across the
-      globe, we build upon your brand objectives by designing a customised
-      program that supports interactive customer engagements. Our solution isn’t
-      just a rewards program; it offers multiple touch-points that allow you to
-      have continuous contact with your customers.
+      Alliances Infinite is an integrated marketing communications specialist
+      renowned for delivering impactful campaigns which generate value and
+      growth for our Merchant partners.
 
 
-      We work on a bonafide platform and our end to end alliance management
-      teams guide our clients through each process of the concept diligently.
+      With a robust infrastructure and an astute knowledge of trends and
+      promotional structures, Alliances Infinite specialises in marketing
+      promotions with brands across a wide variety of industries.
     image: /images/alliances1.jpg
     image_alt: App preview on a phone and tablet
     background: gray
