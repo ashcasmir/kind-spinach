@@ -16,7 +16,7 @@ sections:
       processes. We have the capabilities to cover every part of your
       promotional efforts, thus helping you strategise, launch and support
       successful promotional events.
-    image: /images/alliances1.jpg
+    image: /images/clever-spruce.jpg
     image_alt: App preview on a phone and tablet
     background: gray
     actions: []
