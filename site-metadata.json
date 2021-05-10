@@ -89,12 +89,6 @@
         "nav_links": [
             {
                 "type": "action",
-                "label": "Terms of Service",
-                "url": "/terms-of-service",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
