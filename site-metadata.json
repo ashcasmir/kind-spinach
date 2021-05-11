@@ -90,7 +90,7 @@
             {
                 "type": "action",
                 "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "url": "/privacy",
                 "style": "link"
             }
         ],
