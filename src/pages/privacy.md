@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-subtitle: lorem-ipsum
+subtitle: 'Last updated: May 11, 2021'
 image_alt: lorem-ipsum
 seo:
   title: ''
